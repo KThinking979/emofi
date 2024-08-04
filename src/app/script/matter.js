@@ -28,8 +28,8 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory();
-	else if(typeof define === 'function' && define.amd)
-		define("Matter", [], factory);
+	// else if(typeof define === 'function' && define.amd)
+	// 	define("Matter", [], factory);
 	else if(typeof exports === 'object')
 		exports["Matter"] = factory();
 	else
