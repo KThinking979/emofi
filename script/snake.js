@@ -1,4 +1,4 @@
-class Snake {
+export class Snake {
   constructor(world, x, y, color, face) {
     this.r = 7;
     this.color = color;
