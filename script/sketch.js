@@ -114,6 +114,7 @@ let price3 = 25;
 // let price2 = 0
 // let price3 = 0
 
+let canvasDiv = document.getElementById('myCanvasContainer');
 function setup() {
   // frameRate(120)
   w = window.innerWidth;
@@ -121,7 +122,12 @@ function setup() {
   size = (w - 40 - rest) / sizeFood;
 
   colorMode(HSB);
-  createCanvas(w, h);
+  // createCanvas(w, h);
+  let sketchCanvas = createCanvas(w, h);
+
+  sketchCanvas.parent('myCanvasContainer');
+  sketchCanvas.id('myCanvas');
+
   engine = Engine.create();
   engine.world.gravity.x = 0;
   engine.world.gravity.y = 0;
@@ -130,6 +136,7 @@ function setup() {
    * Basic
    */
   touch = createImg('images/touch.png');
+  touch.parent('myCanvasContainer');
   touch.size(32, 32);
 
   // home = createImg('images/home.png');
@@ -164,51 +171,62 @@ function setup() {
   // coin.size(20, 20);
 
   emojiSnake = createImg('images/snake.png');
+  emojiSnake.parent('myCanvasContainer');
   emojiSnake.size(150, 150);
   emojiSnake.style('z-index', '999');
   emojiSnake.touchStarted(onPressEmojiSnake);
 
   emojiSwitch = createImg('images/switch.png');
+  emojiSwitch.parent('myCanvasContainer');
   emojiSwitch.size(150, 150);
   emojiSwitch.style('z-index', '999');
   emojiSwitch.touchStarted(onPressEmojiSwitch);
 
   skill_1 = createImg('images/K1.png');
+  skill_1.parent('myCanvasContainer');
   skill_1.size(28, 28);
   skill_1.style('z-index', '999');
   skill_1.touchStarted(onPressSkill_1);
 
   coin_1 = createImg('images/coin.png');
+  coin_1.parent('myCanvasContainer');
   coin_1.style('z-index', '999');
   coin_1.size(10, 10);
 
   lock_1 = createImg('images/lock.png');
+  lock_1.parent('myCanvasContainer');
   lock_1.style('z-index', '999');
   lock_1.size(12, 12);
 
   skill_2 = createImg('images/K2.png');
+  skill_2.parent('myCanvasContainer');
   skill_2.size(28, 28);
   skill_2.style('z-index', '999');
   skill_2.touchStarted(onPressSkill_2);
 
   coin_2 = createImg('images/coin.png');
+  coin_2.parent('myCanvasContainer');
   coin_2.style('z-index', '999');
   coin_2.size(10, 10);
 
   lock_2 = createImg('images/lock.png');
+  lock_2.parent('myCanvasContainer');
   lock_2.style('z-index', '999');
   lock_2.size(12, 12);
 
   skill_3 = createImg('images/K3.png');
+  skill_3.parent('myCanvasContainer');
   skill_3.size(28, 28);
   skill_3.style('z-index', '999');
   skill_3.touchStarted(onPressSkill_3);
 
   coin_3 = createImg('images/coin.png');
+  coin_3.parent('myCanvasContainer');
   coin_3.style('z-index', '999');
   coin_3.size(12, 12);
 
   lock_3 = createImg('images/lock.png');
+  lock_3.parent('myCanvasContainer');
   lock_3.style('z-index', '999');
   lock_3.size(12, 12);
 
@@ -366,6 +384,7 @@ function draw() {
     if (snake.isDie) {
       snake.dieStatus();
     } else {
+      console.log('location snake Show');
       snake.show();
       if (isRun && !isPause) {
         snake.update();
@@ -2541,3 +2560,24 @@ function pieChart(diameter, data) {
     lastAngle += radians(angles[i]);
   }
 }
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+window.navigation.addEventListener('navigate', async event => {
+  console.log('document.location ', event.destination.url);
+
+  let isPlay = false;
+  if (event.destination.url === 'http://localhost:3000/emofi/') {
+    isPlay = true;
+  }
+
+  if (isPlay) {
+    console.log('location 1');
+    await sleep(5000);
+    console.log('location 2');
+    reset();
+    // draw();
+  }
+});

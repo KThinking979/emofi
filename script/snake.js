@@ -1,4 +1,4 @@
-export class Snake {
+class Snake {
   constructor(world, x, y, color, face) {
     this.r = 7;
     this.color = color;
@@ -556,6 +556,8 @@ export class Snake {
     this.emoji = face.includes('S')
       ? createImg(`images/snakes/${id}.png`)
       : createImg(`images/anys/${id}.png`);
+
+    this.emoji.parent('myCanvasContainer');
     this.emoji.size(this.sizeEmoji * 2, this.sizeEmoji * 2);
     this.emoji.style('z-index', '999');
 
