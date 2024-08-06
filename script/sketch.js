@@ -793,7 +793,7 @@ function draw() {
     stroke('#f472b6');
     strokeWeight(2);
     rectMode(CENTER);
-    circle(w - 30 - 15, h / 2 + 80 - 45, 40);
+    circle(w - 30 - 15, h / 2 + 80 + 15, 40);
 
     if (runSkill_1) {
       frameSkill1 += 5;
