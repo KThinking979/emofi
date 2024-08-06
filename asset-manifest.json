@@ -1,24 +1,36 @@
 {
   "files": {
     "main.css": "/emofi/static/css/main.f51d5156.css",
-    "main.js": "/emofi/static/js/main.da2350fa.js",
-    "static/js/992.5a8727c2.chunk.js": "/emofi/static/js/992.5a8727c2.chunk.js",
-    "static/js/926.27370b74.chunk.js": "/emofi/static/js/926.27370b74.chunk.js",
-    "static/js/564.bfde5046.chunk.js": "/emofi/static/js/564.bfde5046.chunk.js",
-    "static/js/752.2334467e.chunk.js": "/emofi/static/js/752.2334467e.chunk.js",
-    "static/js/381.f3c9ed0f.chunk.js": "/emofi/static/js/381.f3c9ed0f.chunk.js",
-    "static/js/44.14230455.chunk.js": "/emofi/static/js/44.14230455.chunk.js",
-    "static/js/132.e9240278.chunk.js": "/emofi/static/js/132.e9240278.chunk.js",
-    "static/js/909.949658d8.chunk.js": "/emofi/static/js/909.949658d8.chunk.js",
-    "static/js/206.177c271c.chunk.js": "/emofi/static/js/206.177c271c.chunk.js",
-    "static/js/673.4457e910.chunk.js": "/emofi/static/js/673.4457e910.chunk.js",
+    "main.js": "/emofi/static/js/main.ab16727f.js",
+    "static/js/663.7d3375b3.chunk.js": "/emofi/static/js/663.7d3375b3.chunk.js",
+    "static/js/926.0df7d95d.chunk.js": "/emofi/static/js/926.0df7d95d.chunk.js",
+    "static/js/564.f14b8680.chunk.js": "/emofi/static/js/564.f14b8680.chunk.js",
+    "static/js/752.58d389eb.chunk.js": "/emofi/static/js/752.58d389eb.chunk.js",
+    "static/js/381.63792cde.chunk.js": "/emofi/static/js/381.63792cde.chunk.js",
+    "static/js/44.7fc1ad26.chunk.js": "/emofi/static/js/44.7fc1ad26.chunk.js",
+    "static/js/132.e72deb7b.chunk.js": "/emofi/static/js/132.e72deb7b.chunk.js",
+    "static/js/909.c7a3d7c8.chunk.js": "/emofi/static/js/909.c7a3d7c8.chunk.js",
+    "static/js/206.52caae7a.chunk.js": "/emofi/static/js/206.52caae7a.chunk.js",
+    "static/js/673.8b304910.chunk.js": "/emofi/static/js/673.8b304910.chunk.js",
     "static/media/logo.png": "/emofi/static/media/logo.1967c5618c179c2f7a5b.png",
     "static/media/coin.png": "/emofi/static/media/coin.84cf06a861a4cfb9ad42.png",
     "static/media/touch.png": "/emofi/static/media/touch.e65a0b057db3947db730.png",
+    "static/media/A70G.png": "/emofi/static/media/A70G.205116ca59b167560b97.png",
+    "static/media/A70R.png": "/emofi/static/media/A70R.ab7fa80ae8bd9ddcc74e.png",
+    "static/media/A70V.png": "/emofi/static/media/A70V.dcdbbe80ff6905dfeba8.png",
+    "static/media/A39G.png": "/emofi/static/media/A39G.763388363b4e6f573f24.png",
+    "static/media/A70B.png": "/emofi/static/media/A70B.1f0546adc97d59963e9b.png",
+    "static/media/A39R.png": "/emofi/static/media/A39R.e1284cc8f17e46135dbc.png",
+    "static/media/A39V.png": "/emofi/static/media/A39V.7df6da50163b2042b971.png",
+    "static/media/A71G.png": "/emofi/static/media/A71G.5a02912b037fb05f1576.png",
+    "static/media/A71V.png": "/emofi/static/media/A71V.cbbe312923218104bab8.png",
+    "static/media/A71R.png": "/emofi/static/media/A71R.91f2194dfd0b0f1e5924.png",
+    "static/media/A39B.png": "/emofi/static/media/A39B.1a3f8a52b2e64f4f09b9.png",
+    "static/media/A34G.png": "/emofi/static/media/A34G.8f6a489c1abb65523892.png",
     "index.html": "/emofi/index.html"
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.da2350fa.js"
+    "static/js/main.ab16727f.js"
   ]
 }
