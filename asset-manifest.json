@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/emofi/static/css/main.f51d5156.css",
-    "main.js": "/emofi/static/js/main.ae3c6b2f.js",
-    "static/js/363.3fcb75eb.chunk.js": "/emofi/static/js/363.3fcb75eb.chunk.js",
+    "main.js": "/emofi/static/js/main.e2b26603.js",
+    "static/js/363.a00dc114.chunk.js": "/emofi/static/js/363.a00dc114.chunk.js",
     "static/js/926.0df7d95d.chunk.js": "/emofi/static/js/926.0df7d95d.chunk.js",
     "static/js/564.f14b8680.chunk.js": "/emofi/static/js/564.f14b8680.chunk.js",
     "static/js/752.58d389eb.chunk.js": "/emofi/static/js/752.58d389eb.chunk.js",
@@ -11,8 +11,8 @@
     "static/js/132.e72deb7b.chunk.js": "/emofi/static/js/132.e72deb7b.chunk.js",
     "static/js/909.c7a3d7c8.chunk.js": "/emofi/static/js/909.c7a3d7c8.chunk.js",
     "static/js/206.52caae7a.chunk.js": "/emofi/static/js/206.52caae7a.chunk.js",
-    "static/js/669.c253db6d.chunk.js": "/emofi/static/js/669.c253db6d.chunk.js",
-    "static/js/951.2c8f2ab3.chunk.js": "/emofi/static/js/951.2c8f2ab3.chunk.js",
+    "static/js/669.b744c1cf.chunk.js": "/emofi/static/js/669.b744c1cf.chunk.js",
+    "static/js/673.8b304910.chunk.js": "/emofi/static/js/673.8b304910.chunk.js",
     "static/media/logo.png": "/emofi/static/media/logo.1967c5618c179c2f7a5b.png",
     "static/media/coin.png": "/emofi/static/media/coin.84cf06a861a4cfb9ad42.png",
     "static/media/touch.png": "/emofi/static/media/touch.e65a0b057db3947db730.png",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.ae3c6b2f.js"
+    "static/js/main.e2b26603.js"
   ]
 }
