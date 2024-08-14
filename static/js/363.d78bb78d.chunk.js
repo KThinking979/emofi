@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkemojifi=self.webpackChunkemojifi||[]).push([[363],{10363:(e,n,a)=>{a.r(n),a.d(n,{HomePage:()=>o});a(9950);var i=a(63247);const s=(0,a(24451).j)((()=>Promise.all([a.e(712),a.e(776),a.e(740)]).then(a.bind(a,97740))),(e=>e.Play));var r=a(44414);function o(){return(0,r.jsx)(i.az,{id:"myCanvasContainer",children:(0,r.jsx)(s,{})})}}}]);
