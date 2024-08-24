@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/emofi/static/css/main.f51d5156.css",
-    "main.js": "/emofi/static/js/main.0ba77179.js",
-    "static/js/363.196260d4.chunk.js": "/emofi/static/js/363.196260d4.chunk.js",
-    "static/js/49.79f72c60.chunk.js": "/emofi/static/js/49.79f72c60.chunk.js",
-    "static/js/564.6098fc21.chunk.js": "/emofi/static/js/564.6098fc21.chunk.js",
-    "static/js/752.97b32e40.chunk.js": "/emofi/static/js/752.97b32e40.chunk.js",
-    "static/js/257.58dc0143.chunk.js": "/emofi/static/js/257.58dc0143.chunk.js",
+    "main.js": "/emofi/static/js/main.870f7fd2.js",
+    "static/js/363.949179b2.chunk.js": "/emofi/static/js/363.949179b2.chunk.js",
+    "static/js/49.8b6b040e.chunk.js": "/emofi/static/js/49.8b6b040e.chunk.js",
+    "static/js/564.7a191a91.chunk.js": "/emofi/static/js/564.7a191a91.chunk.js",
+    "static/js/752.69882888.chunk.js": "/emofi/static/js/752.69882888.chunk.js",
+    "static/js/257.14f8e1f7.chunk.js": "/emofi/static/js/257.14f8e1f7.chunk.js",
     "static/js/44.7fc1ad26.chunk.js": "/emofi/static/js/44.7fc1ad26.chunk.js",
     "static/js/67.35ca6070.chunk.js": "/emofi/static/js/67.35ca6070.chunk.js",
     "static/js/909.7d622a2b.chunk.js": "/emofi/static/js/909.7d622a2b.chunk.js",
     "static/js/206.52caae7a.chunk.js": "/emofi/static/js/206.52caae7a.chunk.js",
     "static/js/730.34c4cc8f.chunk.js": "/emofi/static/js/730.34c4cc8f.chunk.js",
     "static/js/483.e95713b3.chunk.js": "/emofi/static/js/483.e95713b3.chunk.js",
-    "static/js/985.05d2a64f.chunk.js": "/emofi/static/js/985.05d2a64f.chunk.js",
+    "static/js/985.d805abb8.chunk.js": "/emofi/static/js/985.d805abb8.chunk.js",
     "static/js/518.8d09f662.chunk.js": "/emofi/static/js/518.8d09f662.chunk.js",
     "static/js/31.e2e8b69b.chunk.js": "/emofi/static/js/31.e2e8b69b.chunk.js",
     "static/js/373.a3cbd883.chunk.js": "/emofi/static/js/373.a3cbd883.chunk.js",
@@ -44,6 +44,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.0ba77179.js"
+    "static/js/main.870f7fd2.js"
   ]
 }
