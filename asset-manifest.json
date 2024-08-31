@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/emofi/static/css/main.f51d5156.css",
-    "main.js": "/emofi/static/js/main.f1ea4d23.js",
-    "static/js/363.a193b7c1.chunk.js": "/emofi/static/js/363.a193b7c1.chunk.js",
-    "static/js/519.5dceb736.chunk.js": "/emofi/static/js/519.5dceb736.chunk.js",
-    "static/js/564.ad9fa02a.chunk.js": "/emofi/static/js/564.ad9fa02a.chunk.js",
+    "main.js": "/emofi/static/js/main.92f20ef7.js",
+    "static/js/363.022ff592.chunk.js": "/emofi/static/js/363.022ff592.chunk.js",
+    "static/js/519.8e209529.chunk.js": "/emofi/static/js/519.8e209529.chunk.js",
+    "static/js/564.664b11b1.chunk.js": "/emofi/static/js/564.664b11b1.chunk.js",
     "static/js/752.dbd46af6.chunk.js": "/emofi/static/js/752.dbd46af6.chunk.js",
     "static/js/381.b2c7523b.chunk.js": "/emofi/static/js/381.b2c7523b.chunk.js",
     "static/js/44.7fc1ad26.chunk.js": "/emofi/static/js/44.7fc1ad26.chunk.js",
     "static/js/67.deda1b1b.chunk.js": "/emofi/static/js/67.deda1b1b.chunk.js",
     "static/js/909.11b6275d.chunk.js": "/emofi/static/js/909.11b6275d.chunk.js",
     "static/js/206.52caae7a.chunk.js": "/emofi/static/js/206.52caae7a.chunk.js",
+    "static/js/119.67468f9d.chunk.js": "/emofi/static/js/119.67468f9d.chunk.js",
     "static/js/730.18fa6568.chunk.js": "/emofi/static/js/730.18fa6568.chunk.js",
     "static/js/483.595dd671.chunk.js": "/emofi/static/js/483.595dd671.chunk.js",
     "static/js/985.ff569262.chunk.js": "/emofi/static/js/985.ff569262.chunk.js",
-    "static/js/900.57a89044.chunk.js": "/emofi/static/js/900.57a89044.chunk.js",
+    "static/js/757.9bb0f88d.chunk.js": "/emofi/static/js/757.9bb0f88d.chunk.js",
     "static/js/224.ba863690.chunk.js": "/emofi/static/js/224.ba863690.chunk.js",
     "static/js/518.895680dd.chunk.js": "/emofi/static/js/518.895680dd.chunk.js",
     "static/js/96.58edd525.chunk.js": "/emofi/static/js/96.58edd525.chunk.js",
@@ -22,11 +23,11 @@
     "static/js/464.c979c521.chunk.js": "/emofi/static/js/464.c979c521.chunk.js",
     "static/js/939.77f9b469.chunk.js": "/emofi/static/js/939.77f9b469.chunk.js",
     "static/js/354.c6a6a335.chunk.js": "/emofi/static/js/354.c6a6a335.chunk.js",
-    "static/js/990.732c2f92.chunk.js": "/emofi/static/js/990.732c2f92.chunk.js",
+    "static/js/900.d96ea7a0.chunk.js": "/emofi/static/js/900.d96ea7a0.chunk.js",
     "static/js/800.bfcee33d.chunk.js": "/emofi/static/js/800.bfcee33d.chunk.js",
     "static/js/236.022c2c17.chunk.js": "/emofi/static/js/236.022c2c17.chunk.js",
     "static/js/412.924ab2e5.chunk.js": "/emofi/static/js/412.924ab2e5.chunk.js",
-    "static/js/785.685db1bb.chunk.js": "/emofi/static/js/785.685db1bb.chunk.js",
+    "static/js/785.4e43ffdd.chunk.js": "/emofi/static/js/785.4e43ffdd.chunk.js",
     "static/media/logo.png": "/emofi/static/media/logo.1967c5618c179c2f7a5b.png",
     "static/media/coin.png": "/emofi/static/media/coin.84cf06a861a4cfb9ad42.png",
     "static/media/confetti_left.png": "/emofi/static/media/confetti_left.1bd9e6b5c5fc60242d6d.png",
@@ -49,6 +50,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.f1ea4d23.js"
+    "static/js/main.92f20ef7.js"
   ]
 }
