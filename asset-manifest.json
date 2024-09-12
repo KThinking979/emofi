@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/emofi/static/css/main.f51d5156.css",
-    "main.js": "/emofi/static/js/main.50485540.js",
-    "static/js/363.f0c64616.chunk.js": "/emofi/static/js/363.f0c64616.chunk.js",
-    "static/js/519.fd495d86.chunk.js": "/emofi/static/js/519.fd495d86.chunk.js",
-    "static/js/564.1692d6e7.chunk.js": "/emofi/static/js/564.1692d6e7.chunk.js",
+    "main.js": "/emofi/static/js/main.e84457e0.js",
+    "static/js/363.127c4938.chunk.js": "/emofi/static/js/363.127c4938.chunk.js",
+    "static/js/519.87d8ed0c.chunk.js": "/emofi/static/js/519.87d8ed0c.chunk.js",
+    "static/js/564.5343a3ff.chunk.js": "/emofi/static/js/564.5343a3ff.chunk.js",
     "static/js/752.dbd54b7d.chunk.js": "/emofi/static/js/752.dbd54b7d.chunk.js",
     "static/js/381.5a054aa9.chunk.js": "/emofi/static/js/381.5a054aa9.chunk.js",
     "static/js/44.7fc1ad26.chunk.js": "/emofi/static/js/44.7fc1ad26.chunk.js",
@@ -20,7 +20,7 @@
     "static/js/750.97086c37.chunk.js": "/emofi/static/js/750.97086c37.chunk.js",
     "static/js/96.58edd525.chunk.js": "/emofi/static/js/96.58edd525.chunk.js",
     "static/js/373.a3cbd883.chunk.js": "/emofi/static/js/373.a3cbd883.chunk.js",
-    "static/js/283.aaa19e46.chunk.js": "/emofi/static/js/283.aaa19e46.chunk.js",
+    "static/js/452.4031a896.chunk.js": "/emofi/static/js/452.4031a896.chunk.js",
     "static/js/464.c979c521.chunk.js": "/emofi/static/js/464.c979c521.chunk.js",
     "static/js/327.18e79c38.chunk.js": "/emofi/static/js/327.18e79c38.chunk.js",
     "static/js/939.77f9b469.chunk.js": "/emofi/static/js/939.77f9b469.chunk.js",
@@ -31,7 +31,7 @@
     "static/js/800.bfcee33d.chunk.js": "/emofi/static/js/800.bfcee33d.chunk.js",
     "static/js/236.022c2c17.chunk.js": "/emofi/static/js/236.022c2c17.chunk.js",
     "static/js/902.df0cfc37.chunk.js": "/emofi/static/js/902.df0cfc37.chunk.js",
-    "static/js/785.55dac76b.chunk.js": "/emofi/static/js/785.55dac76b.chunk.js",
+    "static/js/785.3c6a2bd6.chunk.js": "/emofi/static/js/785.3c6a2bd6.chunk.js",
     "static/media/logo.png": "/emofi/static/media/logo.1967c5618c179c2f7a5b.png",
     "static/media/coin.png": "/emofi/static/media/coin.539841ae2db2b4d84fbe.png",
     "static/media/confetti_left.png": "/emofi/static/media/confetti_left.1bd9e6b5c5fc60242d6d.png",
@@ -54,6 +54,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.50485540.js"
+    "static/js/main.e84457e0.js"
   ]
 }
