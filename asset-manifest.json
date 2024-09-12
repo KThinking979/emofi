@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/emofi/static/css/main.f51d5156.css",
-    "main.js": "/emofi/static/js/main.e84457e0.js",
+    "main.js": "/emofi/static/js/main.4442a42b.js",
     "static/js/363.127c4938.chunk.js": "/emofi/static/js/363.127c4938.chunk.js",
     "static/js/519.87d8ed0c.chunk.js": "/emofi/static/js/519.87d8ed0c.chunk.js",
-    "static/js/564.5343a3ff.chunk.js": "/emofi/static/js/564.5343a3ff.chunk.js",
+    "static/js/564.1fc47705.chunk.js": "/emofi/static/js/564.1fc47705.chunk.js",
     "static/js/752.dbd54b7d.chunk.js": "/emofi/static/js/752.dbd54b7d.chunk.js",
     "static/js/381.5a054aa9.chunk.js": "/emofi/static/js/381.5a054aa9.chunk.js",
     "static/js/44.7fc1ad26.chunk.js": "/emofi/static/js/44.7fc1ad26.chunk.js",
@@ -54,6 +54,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.e84457e0.js"
+    "static/js/main.4442a42b.js"
   ]
 }
