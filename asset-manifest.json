@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/emofi/static/css/main.f51d5156.css",
-    "main.js": "/emofi/static/js/main.668b084a.js",
+    "main.js": "/emofi/static/js/main.f6258e4e.js",
     "static/js/363.1798f9b6.chunk.js": "/emofi/static/js/363.1798f9b6.chunk.js",
     "static/js/519.ff718e39.chunk.js": "/emofi/static/js/519.ff718e39.chunk.js",
-    "static/js/564.2ab245ba.chunk.js": "/emofi/static/js/564.2ab245ba.chunk.js",
+    "static/js/564.84eeace9.chunk.js": "/emofi/static/js/564.84eeace9.chunk.js",
     "static/js/752.dbd54b7d.chunk.js": "/emofi/static/js/752.dbd54b7d.chunk.js",
     "static/js/381.5a054aa9.chunk.js": "/emofi/static/js/381.5a054aa9.chunk.js",
     "static/js/44.7fc1ad26.chunk.js": "/emofi/static/js/44.7fc1ad26.chunk.js",
     "static/js/67.46ad9395.chunk.js": "/emofi/static/js/67.46ad9395.chunk.js",
     "static/js/909.11b6275d.chunk.js": "/emofi/static/js/909.11b6275d.chunk.js",
     "static/js/206.52caae7a.chunk.js": "/emofi/static/js/206.52caae7a.chunk.js",
-    "static/js/373.98b5dd74.chunk.js": "/emofi/static/js/373.98b5dd74.chunk.js",
+    "static/js/373.38b05f76.chunk.js": "/emofi/static/js/373.38b05f76.chunk.js",
     "static/js/483.6d0cdce5.chunk.js": "/emofi/static/js/483.6d0cdce5.chunk.js",
     "static/js/985.dc30dcd4.chunk.js": "/emofi/static/js/985.dc30dcd4.chunk.js",
     "static/js/900.4b9ebdc7.chunk.js": "/emofi/static/js/900.4b9ebdc7.chunk.js",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.668b084a.js"
+    "static/js/main.f6258e4e.js"
   ]
 }
